@@ -14,6 +14,7 @@ release = '1.0'
 extensions = []
 
 templates_path = ['_templates']
+html_context = {}
 exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
