@@ -6,9 +6,9 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project Information -----------------------------------------------------
 
-project = 'Comcast Email Login Guide'
-author = 'Your Name'
-copyright = '2025, Your Name'
+project = 'How do i Sign into Comcast Email Account? Step-by-Step old Account Access Guide'
+author = 'Mark Tawin'
+copyright = '2025, Sign into Comcast Email Account'
 release = '1.0.0'
 
 # -- General Configuration ---------------------------------------------------
