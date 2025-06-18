@@ -15,7 +15,7 @@ release = '1.0.0'
 
 extensions = []
 
-This tells Sphinx where to find custom templates like layout.html
+#This tells Sphinx where to find custom templates like layout.html
 templates_path = ['_templates']
 
 # Exclude build and OS files
