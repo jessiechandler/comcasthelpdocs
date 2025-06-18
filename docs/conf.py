@@ -6,7 +6,6 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 project = ' How do I Sign into Comcast Email Account? Step-by-Step Old Account Access Guide'
-<meta name="msvalidate.01" content="41D405A709311D11A1F376A3A9030AB4" />
 copyright = '2025, Access and manage your Comcast Account'
 author = 'Mark Tawin'
 release = '1.0'
