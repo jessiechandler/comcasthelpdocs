@@ -4,19 +4,28 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-# -- Project information -----------------------------------------------------
-project = ' How do I Sign into Comcast Email Account? Step-by-Step Old Account Access Guide'
-copyright = '2025, Access and manage your Comcast Account'
-author = 'Mark Tawin'
-release = '1.0'
+# -- Project Information -----------------------------------------------------
 
-# -- General configuration ---------------------------------------------------
+project = 'Comcast Email Login Guide'
+author = 'Your Name'
+copyright = '2025, Your Name'
+release = '1.0.0'
+
+# -- General Configuration ---------------------------------------------------
+
 extensions = []
 
 templates_path = ['_templates']
-html_context = {}
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-# -- Options for HTML output -------------------------------------------------
+# -- HTML Output Options -----------------------------------------------------
+
 html_theme = 'furo'
 html_static_path = ['_static']
+
+# Enable custom templates (like layout.html for meta tags)
+html_context = {}
+
+# -- Options for HTML Meta Tags (via layout.html) ----------------------------
+
+# No need to define meta here; they're injected in _templates/layout.html
