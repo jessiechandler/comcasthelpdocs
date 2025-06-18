@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = ' Access and manage your Comcast Account'
+project = ' How do I Sign into Comcast Email Account? Step-by-Step Old Account Access Guide'
 copyright = '2025, Access and manage your Comcast Account'
 author = 'Mark Tawin'
 release = '1.0'
